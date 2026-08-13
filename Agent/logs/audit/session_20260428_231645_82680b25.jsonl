@@ -1,1 +1,0 @@
-{"timestamp": "2026-04-28T23:17:16.526607", "session_id": "20260428_231645_82680b25", "operation": "web_fetch_content", "tool_name": "web_fetch_content", "tool_input": {"url": "https://example.com"}, "tool_output": "Fetched 81 chars from https://example.com", "user_prompt": "", "duration_ms": 17240.44, "status": "success", "error": ""}

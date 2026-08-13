@@ -1,1 +1,0 @@
-{"timestamp": "2026-04-27T23:35:41.506605", "session_id": "20260427_233531_4d0bc042", "model": "", "prompt": "hi", "response": "你好！👋 我是你的 Obsidian 笔记管理助手。\n\n我可以在你的 Obsidian 知识库中帮你：\n- 创建、阅读、更新、删除笔记\n- 批量总结笔记、建立关联\n- 导入 PDF/DOCX/TXT/RTF 文件（自动提取图片为 Markdown）\n- 搜索网络内容，丰富笔记\n- 分析双向链接、生成知识图谱\n- 管理标签、文件夹结构\n\n你的 vault 路径是 `vault`。有什么我可以帮你处理的吗？", "tool_calls": [], "tokens_used": {}}
